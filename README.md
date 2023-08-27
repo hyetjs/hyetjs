@@ -1,14 +1,6 @@
 ###
 𓂃𓂃𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓆞𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓆞𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓆞𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓆞𓂃𓂃𓂃𓂃
-
-
-```html
-<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
-```
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓆡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓆟&nbsp;&nbsp;&nbsp;𓇼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓆞&nbsp;&nbsp;&nbsp;𓂂&nbsp;𓆝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;&nbsp;𓆉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓇼&nbsp;&nbsp;&nbsp;&nbsp;𓆞&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓆡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓆟&nbsp;&nbsp;&nbsp;𓇼&nbsp;&nbsp;𓆉&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;𓆝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓆉&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;𓆝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;𓆡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓆟&nbsp;&nbsp;𓇼&nbsp;&nbsp;𓆉&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;𓆝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓇼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓆞&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓆝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;&nbsp;𓆉&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓇼&nbsp;&nbsp;&nbsp;&nbsp;𓆞&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓆡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓆟&nbsp;&nbsp;&nbsp;𓇼&nbsp;&nbsp;&nbsp;𓆉&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓆝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓆉&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓆝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;𓆡&nbsp;&nbsp;&nbsp;&nbsp;𓆟&nbsp;&nbsp;&nbsp;𓇼&nbsp;&nbsp;&nbsp;&nbsp;𓆞&nbsp;&nbsp;𓆉&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;𓆝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𓂂&nbsp;&nbsp;  
 
 <!-- 어쩌라고 어쩌라고 어쩌라고 🤪 🤪-->
